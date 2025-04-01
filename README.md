@@ -12,13 +12,13 @@ I am part-time Computer Science student majoring in Software Engineering at Univ
 * 🧠  I'm learning C# for GUI Development (Self-Taught)
 * ⚡  Love motorcycle touring
 
-<a href="https://www.github.com/arul1001" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/arul1001?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 #
 ### Working Experience
 
+  
+  
 
 
 
