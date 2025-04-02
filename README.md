@@ -13,9 +13,34 @@ I am part-time Computer Science student majoring in Software Engineering at Univ
 * ⚡  Love motorcycle touring
 
 
-
 #
-### Working Experience
+### Experience
+
+**1. Senior Test Devlopment Engineer** <br/>
+     &nbsp;&nbsp;&nbsp;**Bojay Electronics (Hong Kong) Co. Ltd.** (2018-Present) <br/>
+
+* Developed automation software to integrate third-party graphical user interfaces with <br/> Keysight 3070 BT-Basic, enabling functionality for applications lacking command-line control.
+* Created Standard Operating Procedures (SOPs) for Keysight 3070 BT-Basic software development <br/>and debugging, based on specifications (Bill of Materials, schematics, and datasheets).
+* Provided test consultation services for PCBA failure analysis, resolving issues related to component <br/>defects or programming errors to improve product quality.
+<br/> 
+
+**2. Test Development Engineer** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;**Forwessun Test Limited (UK)** (2014-2018) <br/>
+
+* Conducted test strategy analysis based on CAD, schematics, and Bill of Materials for new PCBA designs.
+* Developed programming solutions for PCBA testing, sourcing both external and internal methods, <br/> tailored to device manufacturers and design specifications.
+* Created and installed in-circuit test programs at customer sites across South East Asia, China (Shanghai), <br/>and Eastern Europe, troubleshooting and debugging as necessary.
+<br/>
+
+
+**3. Test Development Engineer** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;**Everett Charles Technologies (Singapore** (2010-2014) <br/>
+
+* Developed and debugged test programs for In-Circuit Test (ICT) fixtures using the Keysight 3070 system.
+* Integrated external programmers (e.g., Flashrunner, Altera Byte Blaster, Xilinx USB Platform, <br/> ST-Link V2) to enhance programming capabilities for flash, microcontroller, and EEPROM.
+* Led commissioning efforts for ICT fixtures at customer sites across the South East region, <br/>ensuring seamless setup and operation.
+* Generated and analyzed test coverage for completed test programs to ensure complete validation.
+
 
   
   
@@ -25,7 +50,17 @@ I am part-time Computer Science student majoring in Software Engineering at Univ
 #
 ### Education
 
+* **Diploma in Electronics and Telecommunication Engineering** <br/>
+Politeknik Port Dickson (2000-2001)
+<br/>
 
+* **Certificate in Electronics and Telecommunication Engineering** <br/>
+Politeknik Sultan Haji Ahmad Shah (Kuantan) (1994-1996)
+
+
+#
+### Certification
+* **6 Sigma-Certified Green Belt** (Flex-2015)
 
 
 #
