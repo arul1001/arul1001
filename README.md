@@ -19,7 +19,7 @@ I am part-time Computer Science student majoring in Software Engineering at Univ
 **1. Senior Test Devlopment Engineer** <br/>
      &nbsp;&nbsp;&nbsp;**Bojay Electronics (Hong Kong) Co. Ltd.** (2018-Present) <br/>
 
-* Developed automation software to integrate third-party graphical user interfaces with <br/> Keysight 3070 BT-Basic, enabling functionality for applications lacking command-line control.
+* Developed automation software to integrate third-party graphical user interfaces with Keysight 3070 BT-Basic, enabling functionality for applications lacking command-line control.
 * Created Standard Operating Procedures (SOPs) for Keysight 3070 BT-Basic software development <br/>and debugging, based on specifications (Bill of Materials, schematics, and datasheets).
 * Provided test consultation services for PCBA failure analysis, resolving issues related to component <br/>defects or programming errors to improve product quality.
 <br/> 
