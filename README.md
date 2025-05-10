@@ -71,9 +71,6 @@ Politeknik Sultan Haji Ahmad Shah (Kuantan) (1994-1996)
 
 **2024/2025 Semester II**
 
-* **SECP1513-Technology and Information System** 
-* **SECI2143-Probability and Statistic Data Analysis**
-* [**SECP1513-Technology and Information System**]( https://github.com/arul1001/SECP1513-Technology-and-Information-System.git)
 
 #
 
