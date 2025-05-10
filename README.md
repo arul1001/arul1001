@@ -54,7 +54,7 @@ Politeknik Sultan Haji Ahmad Shah (Kuantan) (1994-1996)
 
 #
 ### Certification
-* **6 Sigma-Certified Green Belt** (Flex-2015)
+* **6 Sigma-Certified Green Belt** (Flex-2005)
 
 
 #
