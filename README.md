@@ -74,6 +74,26 @@ Politeknik Sultan Haji Ahmad Shah (Kuantan) (1994-1996)
 * [**SECP1513-Technology and Information System**](https://github.com/arul1001/SECP1513-Technology-and-Information-System.git)
 * [**SECI2143-Probability and Statistic Data Analysis**](https://github.com/arul1001/SECI2143-Probability-and-Statistic-Data-Analysis.git)
 
+<h1 align="left">Courses 📚</h1>
+<div style="margin: 50px;">
+  <h2 align="left">Semester 1</h2>
+<a href="https://github.com/arul1001/SECI1013-Discrete-Structure">
+  <img align="center" src="" />
+</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 #
 
 ### Socials
