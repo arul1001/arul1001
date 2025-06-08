@@ -14,7 +14,7 @@ I am part-time Computer Science student majoring in Software Engineering at Univ
 
 
 #
-### Experience
+### Experiences
 
 **1. Senior Test Devlopment Engineer** <br/>
      &nbsp;&nbsp;&nbsp;**Bojay Electronics (Hong Kong) Co. Ltd.** (2018-Present) <br/>
@@ -67,31 +67,20 @@ Politeknik Sultan Haji Ahmad Shah (Kuantan) (1994-1996)
 
 
 #
-### Courses
 
-**2024/2025 Semester II**
+### Courses 📚 
+#### 2024/2025 Semester II 
+<div style="margin: 100px;">
 
-* [**SECP1513-Technology and Information System**](https://github.com/arul1001/SECP1513-Technology-and-Information-System.git)
-* [**SECI2143-Probability and Statistic Data Analysis**](https://github.com/arul1001/SECI2143-Probability-and-Statistic-Data-Analysis.git)
-
-<h1 align="left">Courses 📚</h1>
-<div style="margin: 200px;">
-  <h2 align="left">Semester 1</h2>
+     
 <a href="https://github.com/arul1001/SECP1513-Technology-and-Information-System.git">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arul1001&repo=SECP1513-Technology-and-Information-System&theme=material-palenight" />
 </a>
+
+<a href="https://github.com/arul1001/SECI2143-Probability-and-Statistic-Data-Analysis.git">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arul1001&repo=SECI2143-Probability-and-Statistic-Data-Analysis&theme=material-palenight" />
+</a>
+     
 </div>
-
-
-
-
-
-
-
-
-
-
-
 
 
 #
