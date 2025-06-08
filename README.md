@@ -68,7 +68,7 @@ Politeknik Sultan Haji Ahmad Shah (Kuantan) (1994-1996)
 
 #
 
-### Courses 📚 
+### Courses
 #### 2024/2025 Semester II 
 <div style="margin: 100px;">
 
