@@ -71,6 +71,13 @@ Politeknik Sultan Haji Ahmad Shah (Kuantan) (1994-1996)
 
 **2024/2025 Semester II**
 
+<a href="https://github.com/arul1001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arul1001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=SECP1513%20%-" alt="TIS" /></a>
+
+
+
+
+
+
 * [**SECP1513-Technology and Information System**](https://github.com/arul1001/SECP1513-Technology-and-Information-System.git)
 * [**SECI2143-Probability and Statistic Data Analysis**](https://github.com/arul1001/SECI2143-Probability-and-Statistic-Data-Analysis.git)
 
